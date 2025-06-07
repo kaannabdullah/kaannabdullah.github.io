@@ -29,7 +29,9 @@ body {
 	font-size: 20px;
 	padding-bottom:1000px;
 }
-
+ .langselector h1 {
+	  line-height: 1.2;
+ }
 a {
 	text-decoration: none;
 	color: var(--blue);
